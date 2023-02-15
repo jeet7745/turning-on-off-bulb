@@ -1,0 +1,42 @@
+body{
+    
+    position: relative;
+}
+ 
+#img{
+    position: relative;
+    left: 400px;
+    top: 200px;
+}
+
+
+
+    
+
+
+#btn1{
+    position: absolute;
+    top:430px ;
+    right: 510px;
+    cursor: pointer; 
+    border-radius: 5px;
+    padding: 10px;
+    background-color:  #494eea;
+    color: #fff;
+    box-shadow:  10px 10px rgba(0, 0, 0, 0.2);
+    font-weight: 500;
+    cursor: pointer;
+}
+#btn2{
+    position: absolute;
+    top:430px ;
+    right: 400px;
+    cursor: pointer; ;
+    border-radius: 5px;
+    padding: 10px;
+    background-color:  #494eea;
+    color: #fff;
+    box-shadow:  10px 10px rgba(0, 0, 0, 0.2);
+    font-weight: 500;
+    
+}
